@@ -16,7 +16,7 @@ This repository contains code for a machine learning model designed to classify 
 ## <h1><b1>Usage</b1><h1>
 To get started with using the spam SMS classifier, follow these steps:
 
-**Clone the Repository**: git clone https://github.com/your-username/spam-sms-classifier.git
+**Clone the Repository**: git clone https://github.com/ps0821/spam-sms-classifier.git
 
 **Install Dependencies**: pip install -r requirements.txt
 
